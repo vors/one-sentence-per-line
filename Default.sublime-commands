@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "One sentence per line: reindent",
+    "command": "semantic_linefeed"
+  }
+]
